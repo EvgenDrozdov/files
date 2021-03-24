@@ -1,0 +1,29 @@
+<svg width="1000" height="380"
+     xmlns='http://www.w3.org/2000/svg'
+     xmlns:xlink='http://www.w3.org/1999/xlink'>
+   
+    <ellipse cx="200" cy="300" rx="70" ry="20" fill="#d3d3d3" />
+    <circle cx="200" cy="200" r="100" fill="#ffa500" />
+    <circle cx="190" cy="180" r="40" fill="white" />
+    <circle cx="245" cy="180" r="40" fill="white" />
+    <circle cx="200" cy="180" r="8" fill="black" />
+    <circle cx="255" cy="180" r="8" fill="black" />
+    <circle cx="222" cy="218" r="12" fill="black" />
+    <ellipse cx="210" cy="255" rx="15" ry="8" fill="#dc143c" />
+    <polygon points="115,115 155,115 115,155" stroke="#ffa500" stroke-width="4" fill="black" />
+    <polygon points="215,105 260,120 245,85" stroke="#ffa500" stroke-width="4" fill="black" />
+<symbol id="tail">
+        <ellipse cx="130" cy="210" rx="66" ry="25" fill="#ffa500" />
+        <polygon points="67,210 92,192 90,228" fill="white" />
+    </symbol>
+<use xlink:href="#tail" transform="rotate(15)" />
+ <ellipse cx="450" cy="300" rx="70" ry="20" fill="#d3d3d3" />
+    <circle cx="450" cy="200" r="100" fill="#ffd700" />
+ <circle cx="405" cy="180" r="40" fill="white" />
+    <circle cx="460" cy="180" r="40" fill="white" />
+    <circle cx="395" cy="180" r="8" fill="black" />
+    <circle cx="450" cy="180" r="8" fill="black" />
+<ellipse cx="435" cy="250" rx="8" ry="15" fill="#dc143c" />
+
+    
+</svg>
