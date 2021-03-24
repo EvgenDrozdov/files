@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width=700 height=400>
+            <ellipse cx=250 cy=300 rx=60 ry=20 fill=lightgrey></ellipse>
+            <ellipse cx=500 cy=300 rx=60 ry=20 fill=lightgrey></ellipse>
+            <ellipse cx=160 cy=190 rx=60 ry=20 fill=orange transform='rotate(12)'></ellipse>
+            <circle cx=250 cy=200 r=100 fill=orange></circle>
+            <circle cx=500 cy=200 r=100 fill=gold></circle>
+            <ellipse cx=250 cy=245 rx=15 ry=7 fill=crimson></ellipse>
+            <ellipse cx=485 cy=250 rx=7 ry=15 fill=crimson></ellipse>
+            <circle cx=240 cy=180 r=40 fill=white></circle>
+            <circle cx=290 cy=180 r=40 fill=white></circle>
+            <circle cx=460 cy=180 r=40 fill=white></circle>
+            <circle cx=510 cy=180 r=40 fill=white></circle>
+            <circle cx=250 cy=180 r=8 fill=black></circle>
+            <circle cx=300 cy=180 r=8 fill=black></circle>
+            <circle cx=450 cy=180 r=8 fill=black></circle>
+            <circle cx=500 cy=180 r=8 fill=black></circle>
+            <circle cx=268 cy=215 r=10 fill=black></circle>
+            <polygon points='175,135 185,95 230,105' fill=orange></polygon>
+            <polygon points='182,130 189,101 220,108'></polygon>
+            <polygon points='265,110 303,90 319,135' fill=orange></polygon>
+            <polygon points='282,105 302,95 310,120'></polygon>
+            <polygon points=' 83,226 62,208 88,198' fill=white></polygon>
+        </svg>
